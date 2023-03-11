@@ -1,0 +1,1 @@
+(()=>{var r,e={252:r=>{r.exports="welcome to webpack learning"}},t={};r=function r(o){var a=t[o];if(void 0!==a)return a.exports;var n=t[o]={exports:{}};return e[o](n,n.exports,r),n.exports}(252),alert(r)})();
